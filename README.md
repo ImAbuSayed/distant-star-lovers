@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/distant-star-lovers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Distant Star Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-star-lovers/) |
+| **Get License** | [Get a Licensing Quote for Distant Star Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-star-lovers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2841dd41e8e66467ab8fc25e6027cb7338c891c8194513090bd5b2db2baa65d7` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
