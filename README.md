@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/distant-star-lovers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Distant Star Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-star-lovers/) |
+| **Get License** | [Commercial Licensing for Distant Star Lovers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-star-lovers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your hands are sliding down the edge of my jeans
+> We are tearing through the seams of our midnight dreams
+> I want to taste the wild honey on your lips
+> And feel the electric rhythm in your hips
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
